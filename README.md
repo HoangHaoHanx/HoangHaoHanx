@@ -50,6 +50,8 @@ I like building fast, reliable tools — especially in Rust — and exploring te
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
+But I only learned all these programming languages ​​for fun—mostly just to break things—so don’t pay any mind to it; I just keep them around to look a bit more educated, haha! :DDDD
+
 **Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
