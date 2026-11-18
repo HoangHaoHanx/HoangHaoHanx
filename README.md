@@ -68,8 +68,8 @@ I like building fast, reliable tools — especially in Rust — and exploring te
 | Language | Share |
 |----------|-------|
 | 🦀 Rust | ████████████░░░░░░░░ 60% |
-| ⚙️ C++ & C# | ████░░░░░░░░░░░░░░░░ 20% |
-| 🧩 Everything else (C, Python, JS/TS, Go, Java, Lua, Shell, …) | ████░░░░░░░░░░░░░░░░ 20% |
+| ⚙️ C++ & C# | ██████░░░░░░░░░░░░░░ 30% |
+| 🧩 Everything else (C, Python, JS/TS, Go, Java, Lua, Shell, …) | ███░░░░░░░░░░░░░░░░░ 10% |
 
 > I don't push all my code to GitHub, so these numbers come from my day-to-day usage rather than GitHub's stats.
 
